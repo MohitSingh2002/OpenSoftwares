@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OpenSoftwares:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OpenSoftwares_jar</output-path>
+    <root id="archive" name="OpenSoftwares.jar">
+      <element id="module-output" name="OpenSoftwares" />
+    </root>
+  </artifact>
+</component>
